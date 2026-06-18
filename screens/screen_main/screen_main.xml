@@ -29,7 +29,7 @@
 			text_font="NS_Medium_36"
 		/>
 	</styles>
-	<view extends="lv_obj">
+	<view extends="lv_obj" scrollable="false">
 		<style name="style_main" />
 
 		<lv_image src="lvgl_logo" />

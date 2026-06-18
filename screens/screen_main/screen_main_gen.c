@@ -80,6 +80,7 @@ lv_obj_t * screen_main_create(void)
     if (worldcup_ui_check_target(WORLDCUP_UI_TARGET_ALL)) {
         lv_obj_t * lv_obj_0 = lv_obj_create(NULL);
         lv_obj_set_name_static(lv_obj_0, "screen_main_#");
+        lv_obj_set_flag(lv_obj_0, LV_OBJ_FLAG_SCROLLABLE, false);
 
         lv_obj_add_style(lv_obj_0, &style_main, 0);
         lv_obj_t * lv_image_0 = lv_image_create(lv_obj_0);
