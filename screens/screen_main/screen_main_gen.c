@@ -98,7 +98,7 @@ lv_obj_t * screen_main_create(void)
         lv_obj_set_width(score_panel_0, lv_pct(90));
 
         lv_obj_t * lv_label_1 = lv_label_create(lv_obj_1);
-        lv_label_set_text(lv_label_1, "In Play");
+        lv_label_bind_text(lv_label_1, &sb_status, NULL);
         lv_obj_set_style_text_font(lv_label_1, NS_Medium_24, 0);
 
         lv_obj_t * lv_label_2 = lv_label_create(lv_obj_1);

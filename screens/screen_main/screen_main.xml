@@ -41,7 +41,7 @@
 			<lv_label text="FIFA World Cup" style_text_font="NS_Medium_24" />
 			<team_panel />
 			<score_panel width="90%" />
-			<lv_label text="In Play" style_text_font="NS_Medium_24" />
+			<lv_label bind_text="sb_status" style_text_font="NS_Medium_24" />
 			<lv_label
 				width="90%"
 				bind_text="sb_referee"
