@@ -46,7 +46,7 @@ lv_obj_t * score_panel_create(lv_obj_t * parent)
             lv_style_set_height(&style_base, LV_SIZE_CONTENT);
             lv_style_set_bg_color(&style_base, lv_color_hex(0x6688ee));
             lv_style_set_layout(&style_base, LV_LAYOUT_FLEX);
-            lv_style_set_flex_main_place(&style_base, LV_FLEX_ALIGN_SPACE_BETWEEN);
+            lv_style_set_flex_main_place(&style_base, LV_FLEX_ALIGN_SPACE_AROUND);
             lv_style_set_flex_track_place(&style_base, LV_FLEX_ALIGN_CENTER);
             lv_style_set_flex_cross_place(&style_base, LV_FLEX_ALIGN_CENTER);
             lv_style_set_text_color(&style_base, lv_color_hex(0xffffff));
