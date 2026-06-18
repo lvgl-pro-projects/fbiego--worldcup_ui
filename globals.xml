@@ -90,7 +90,7 @@
 			src_path="fonts/NotoSans-Medium.ttf"
 			bpp="4"
 			range="0x20-0x7f"
-			symbols="’°"
+			symbols="’°ÀÁÂÄÅÆÇÈÉÊËÍÎÏÑÓÔÖŐØÚÛÜÝàáâäåæçèéêëíîïñóôöőøúûüýÿßŒœ¿¡"
 			as_file="false"
 		/>
 
@@ -100,7 +100,7 @@
 			src_path="fonts/NotoSans-Medium.ttf"
 			bpp="4"
 			range="0x20-0x7f"
-			symbols="’°"
+			symbols="’°ÀÁÂÄÅÆÇÈÉÊËÍÎÏÑÓÔÖŐØÚÛÜÝàáâäåæçèéêëíîïñóôöőøúûüýÿßŒœ¿¡"
 			as_file="false"
 		/>
 
@@ -110,7 +110,7 @@
 			src_path="fonts/NotoSans-Medium.ttf"
 			bpp="4"
 			range="0x20-0x7f"
-			symbols="’°"
+			symbols="’°ÀÁÂÄÅÆÇÈÉÊËÍÎÏÑÓÔÖŐØÚÛÜÝàáâäåæçèéêëíîïñóôöőøúûüýÿßŒœ¿¡"
 			as_file="false"
 		/>
 
@@ -120,7 +120,7 @@
 			src_path="fonts/NotoSans-Medium.ttf"
 			bpp="4"
 			range="0x20-0x7f"
-			symbols="’°"
+			symbols="’°ÀÁÂÄÅÆÇÈÉÊËÍÎÏÑÓÔÖŐØÚÛÜÝàáâäåæçèéêëíîïñóôöőøúûüýÿßŒœ¿¡"
 			as_file="false"
 		/>
 
