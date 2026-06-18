@@ -1,0 +1,19 @@
+<widget>
+	<previews>
+		<preview width="320" height="240" style_bg_color="0xeee" />
+	</previews>
+
+	<api>
+		<prop name="bind_code" type="subject" help="The 3 letter country code" />
+	</api>
+
+	<styles>
+		<style name="style_base" width="content" height="content" />
+	</styles>
+
+	<view extends="lv_image">
+		<style name="style_base" />
+
+		<!-- Add widgets/components here -->
+	</view>
+</widget>
