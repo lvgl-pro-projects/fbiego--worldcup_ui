@@ -25,6 +25,6 @@ for file in png_files:
     src_path = os.path.join('images', file).replace('\\', '/')
 
     # Print the XML line
-    # print(f'<data name="{name}" src_path="{src_path}"  color_format="rgb565a8"/>')
+    print(f'<data name="flag_{name}" src_path="{src_path}"  color_format="rgb565a8"/>')
 
-    print(f'else if(lv_streq("{name}", code)) {{ return {name}; }}')
+    # print(f'else if(lv_streq("{name}", code)) {{ return {name}; }}')

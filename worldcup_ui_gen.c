@@ -64,102 +64,102 @@ extern lv_font_t NS_Bold_64__data;
  *----------------*/
 
 /* Targets: any */
-const void * CIV = NULL;
-extern const void * CIV_data;
-const void * QAT = NULL;
-extern const void * QAT_data;
-const void * GHA = NULL;
-extern const void * GHA_data;
-const void * NZL = NULL;
-extern const void * NZL_data;
-const void * GER = NULL;
-extern const void * GER_data;
-const void * EGY = NULL;
-extern const void * EGY_data;
-const void * CPV = NULL;
-extern const void * CPV_data;
-const void * MEX = NULL;
-extern const void * MEX_data;
-const void * SCO = NULL;
-extern const void * SCO_data;
-const void * IRQ = NULL;
-extern const void * IRQ_data;
-const void * KSA = NULL;
-extern const void * KSA_data;
-const void * RSA = NULL;
-extern const void * RSA_data;
-const void * CRO = NULL;
-extern const void * CRO_data;
-const void * USA = NULL;
-extern const void * USA_data;
-const void * MAR = NULL;
-extern const void * MAR_data;
-const void * COD = NULL;
-extern const void * COD_data;
-const void * CZE = NULL;
-extern const void * CZE_data;
-const void * ENG = NULL;
-extern const void * ENG_data;
-const void * JPN = NULL;
-extern const void * JPN_data;
-const void * CAN = NULL;
-extern const void * CAN_data;
-const void * PAR = NULL;
-extern const void * PAR_data;
-const void * ECU = NULL;
-extern const void * ECU_data;
-const void * TUR = NULL;
-extern const void * TUR_data;
-const void * SEN = NULL;
-extern const void * SEN_data;
-const void * BRA = NULL;
-extern const void * BRA_data;
-const void * NED = NULL;
-extern const void * NED_data;
-const void * AUS = NULL;
-extern const void * AUS_data;
-const void * BIH = NULL;
-extern const void * BIH_data;
-const void * URY = NULL;
-extern const void * URY_data;
-const void * ALG = NULL;
-extern const void * ALG_data;
-const void * TUN = NULL;
-extern const void * TUN_data;
-const void * KOR = NULL;
-extern const void * KOR_data;
-const void * PAN = NULL;
-extern const void * PAN_data;
-const void * POR = NULL;
-extern const void * POR_data;
-const void * COL = NULL;
-extern const void * COL_data;
-const void * CUW = NULL;
-extern const void * CUW_data;
-const void * BEL = NULL;
-extern const void * BEL_data;
-const void * FRA = NULL;
-extern const void * FRA_data;
-const void * AUT = NULL;
-extern const void * AUT_data;
-const void * SWE = NULL;
-extern const void * SWE_data;
-const void * NOR = NULL;
-extern const void * NOR_data;
-const void * HAI = NULL;
-extern const void * HAI_data;
-const void * UZB = NULL;
-extern const void * UZB_data;
-const void * IRN = NULL;
-extern const void * IRN_data;
-const void * ESP = NULL;
-extern const void * ESP_data;
-const void * ARG = NULL;
-extern const void * ARG_data;
-const void * SUI = NULL;
-extern const void * SUI_data;
-const void * JOR = NULL;
-extern const void * JOR_data;
+const void * flag_CIV = NULL;
+extern const void * flag_CIV_data;
+const void * flag_QAT = NULL;
+extern const void * flag_QAT_data;
+const void * flag_GHA = NULL;
+extern const void * flag_GHA_data;
+const void * flag_NZL = NULL;
+extern const void * flag_NZL_data;
+const void * flag_GER = NULL;
+extern const void * flag_GER_data;
+const void * flag_EGY = NULL;
+extern const void * flag_EGY_data;
+const void * flag_CPV = NULL;
+extern const void * flag_CPV_data;
+const void * flag_MEX = NULL;
+extern const void * flag_MEX_data;
+const void * flag_SCO = NULL;
+extern const void * flag_SCO_data;
+const void * flag_IRQ = NULL;
+extern const void * flag_IRQ_data;
+const void * flag_KSA = NULL;
+extern const void * flag_KSA_data;
+const void * flag_RSA = NULL;
+extern const void * flag_RSA_data;
+const void * flag_CRO = NULL;
+extern const void * flag_CRO_data;
+const void * flag_USA = NULL;
+extern const void * flag_USA_data;
+const void * flag_MAR = NULL;
+extern const void * flag_MAR_data;
+const void * flag_COD = NULL;
+extern const void * flag_COD_data;
+const void * flag_CZE = NULL;
+extern const void * flag_CZE_data;
+const void * flag_ENG = NULL;
+extern const void * flag_ENG_data;
+const void * flag_JPN = NULL;
+extern const void * flag_JPN_data;
+const void * flag_CAN = NULL;
+extern const void * flag_CAN_data;
+const void * flag_PAR = NULL;
+extern const void * flag_PAR_data;
+const void * flag_ECU = NULL;
+extern const void * flag_ECU_data;
+const void * flag_TUR = NULL;
+extern const void * flag_TUR_data;
+const void * flag_SEN = NULL;
+extern const void * flag_SEN_data;
+const void * flag_BRA = NULL;
+extern const void * flag_BRA_data;
+const void * flag_NED = NULL;
+extern const void * flag_NED_data;
+const void * flag_AUS = NULL;
+extern const void * flag_AUS_data;
+const void * flag_BIH = NULL;
+extern const void * flag_BIH_data;
+const void * flag_URY = NULL;
+extern const void * flag_URY_data;
+const void * flag_ALG = NULL;
+extern const void * flag_ALG_data;
+const void * flag_TUN = NULL;
+extern const void * flag_TUN_data;
+const void * flag_KOR = NULL;
+extern const void * flag_KOR_data;
+const void * flag_PAN = NULL;
+extern const void * flag_PAN_data;
+const void * flag_POR = NULL;
+extern const void * flag_POR_data;
+const void * flag_COL = NULL;
+extern const void * flag_COL_data;
+const void * flag_CUW = NULL;
+extern const void * flag_CUW_data;
+const void * flag_BEL = NULL;
+extern const void * flag_BEL_data;
+const void * flag_FRA = NULL;
+extern const void * flag_FRA_data;
+const void * flag_AUT = NULL;
+extern const void * flag_AUT_data;
+const void * flag_SWE = NULL;
+extern const void * flag_SWE_data;
+const void * flag_NOR = NULL;
+extern const void * flag_NOR_data;
+const void * flag_HAI = NULL;
+extern const void * flag_HAI_data;
+const void * flag_UZB = NULL;
+extern const void * flag_UZB_data;
+const void * flag_IRN = NULL;
+extern const void * flag_IRN_data;
+const void * flag_ESP = NULL;
+extern const void * flag_ESP_data;
+const void * flag_ARG = NULL;
+extern const void * flag_ARG_data;
+const void * flag_SUI = NULL;
+extern const void * flag_SUI_data;
+const void * flag_JOR = NULL;
+extern const void * flag_JOR_data;
 const void * background = NULL;
 extern const void * background_data;
 const void * lvgl_logo = NULL;
@@ -244,197 +244,197 @@ void worldcup_ui_init_gen(const char * asset_path)
     /* Targets: any */
     #if WORLDCUP_UI_CHECK_COMPILE_TARGET(WORLDCUP_UI_TARGET_ALL)
     if (worldcup_ui_check_target(WORLDCUP_UI_TARGET_ALL)) {
-        /* CIV */
-        if (!CIV) {
-            CIV = &CIV_data;
+        /* flag_CIV */
+        if (!flag_CIV) {
+            flag_CIV = &flag_CIV_data;
         }
-        /* QAT */
-        if (!QAT) {
-            QAT = &QAT_data;
+        /* flag_QAT */
+        if (!flag_QAT) {
+            flag_QAT = &flag_QAT_data;
         }
-        /* GHA */
-        if (!GHA) {
-            GHA = &GHA_data;
+        /* flag_GHA */
+        if (!flag_GHA) {
+            flag_GHA = &flag_GHA_data;
         }
-        /* NZL */
-        if (!NZL) {
-            NZL = &NZL_data;
+        /* flag_NZL */
+        if (!flag_NZL) {
+            flag_NZL = &flag_NZL_data;
         }
-        /* GER */
-        if (!GER) {
-            GER = &GER_data;
+        /* flag_GER */
+        if (!flag_GER) {
+            flag_GER = &flag_GER_data;
         }
-        /* EGY */
-        if (!EGY) {
-            EGY = &EGY_data;
+        /* flag_EGY */
+        if (!flag_EGY) {
+            flag_EGY = &flag_EGY_data;
         }
-        /* CPV */
-        if (!CPV) {
-            CPV = &CPV_data;
+        /* flag_CPV */
+        if (!flag_CPV) {
+            flag_CPV = &flag_CPV_data;
         }
-        /* MEX */
-        if (!MEX) {
-            MEX = &MEX_data;
+        /* flag_MEX */
+        if (!flag_MEX) {
+            flag_MEX = &flag_MEX_data;
         }
-        /* SCO */
-        if (!SCO) {
-            SCO = &SCO_data;
+        /* flag_SCO */
+        if (!flag_SCO) {
+            flag_SCO = &flag_SCO_data;
         }
-        /* IRQ */
-        if (!IRQ) {
-            IRQ = &IRQ_data;
+        /* flag_IRQ */
+        if (!flag_IRQ) {
+            flag_IRQ = &flag_IRQ_data;
         }
-        /* KSA */
-        if (!KSA) {
-            KSA = &KSA_data;
+        /* flag_KSA */
+        if (!flag_KSA) {
+            flag_KSA = &flag_KSA_data;
         }
-        /* RSA */
-        if (!RSA) {
-            RSA = &RSA_data;
+        /* flag_RSA */
+        if (!flag_RSA) {
+            flag_RSA = &flag_RSA_data;
         }
-        /* CRO */
-        if (!CRO) {
-            CRO = &CRO_data;
+        /* flag_CRO */
+        if (!flag_CRO) {
+            flag_CRO = &flag_CRO_data;
         }
-        /* USA */
-        if (!USA) {
-            USA = &USA_data;
+        /* flag_USA */
+        if (!flag_USA) {
+            flag_USA = &flag_USA_data;
         }
-        /* MAR */
-        if (!MAR) {
-            MAR = &MAR_data;
+        /* flag_MAR */
+        if (!flag_MAR) {
+            flag_MAR = &flag_MAR_data;
         }
-        /* COD */
-        if (!COD) {
-            COD = &COD_data;
+        /* flag_COD */
+        if (!flag_COD) {
+            flag_COD = &flag_COD_data;
         }
-        /* CZE */
-        if (!CZE) {
-            CZE = &CZE_data;
+        /* flag_CZE */
+        if (!flag_CZE) {
+            flag_CZE = &flag_CZE_data;
         }
-        /* ENG */
-        if (!ENG) {
-            ENG = &ENG_data;
+        /* flag_ENG */
+        if (!flag_ENG) {
+            flag_ENG = &flag_ENG_data;
         }
-        /* JPN */
-        if (!JPN) {
-            JPN = &JPN_data;
+        /* flag_JPN */
+        if (!flag_JPN) {
+            flag_JPN = &flag_JPN_data;
         }
-        /* CAN */
-        if (!CAN) {
-            CAN = &CAN_data;
+        /* flag_CAN */
+        if (!flag_CAN) {
+            flag_CAN = &flag_CAN_data;
         }
-        /* PAR */
-        if (!PAR) {
-            PAR = &PAR_data;
+        /* flag_PAR */
+        if (!flag_PAR) {
+            flag_PAR = &flag_PAR_data;
         }
-        /* ECU */
-        if (!ECU) {
-            ECU = &ECU_data;
+        /* flag_ECU */
+        if (!flag_ECU) {
+            flag_ECU = &flag_ECU_data;
         }
-        /* TUR */
-        if (!TUR) {
-            TUR = &TUR_data;
+        /* flag_TUR */
+        if (!flag_TUR) {
+            flag_TUR = &flag_TUR_data;
         }
-        /* SEN */
-        if (!SEN) {
-            SEN = &SEN_data;
+        /* flag_SEN */
+        if (!flag_SEN) {
+            flag_SEN = &flag_SEN_data;
         }
-        /* BRA */
-        if (!BRA) {
-            BRA = &BRA_data;
+        /* flag_BRA */
+        if (!flag_BRA) {
+            flag_BRA = &flag_BRA_data;
         }
-        /* NED */
-        if (!NED) {
-            NED = &NED_data;
+        /* flag_NED */
+        if (!flag_NED) {
+            flag_NED = &flag_NED_data;
         }
-        /* AUS */
-        if (!AUS) {
-            AUS = &AUS_data;
+        /* flag_AUS */
+        if (!flag_AUS) {
+            flag_AUS = &flag_AUS_data;
         }
-        /* BIH */
-        if (!BIH) {
-            BIH = &BIH_data;
+        /* flag_BIH */
+        if (!flag_BIH) {
+            flag_BIH = &flag_BIH_data;
         }
-        /* URY */
-        if (!URY) {
-            URY = &URY_data;
+        /* flag_URY */
+        if (!flag_URY) {
+            flag_URY = &flag_URY_data;
         }
-        /* ALG */
-        if (!ALG) {
-            ALG = &ALG_data;
+        /* flag_ALG */
+        if (!flag_ALG) {
+            flag_ALG = &flag_ALG_data;
         }
-        /* TUN */
-        if (!TUN) {
-            TUN = &TUN_data;
+        /* flag_TUN */
+        if (!flag_TUN) {
+            flag_TUN = &flag_TUN_data;
         }
-        /* KOR */
-        if (!KOR) {
-            KOR = &KOR_data;
+        /* flag_KOR */
+        if (!flag_KOR) {
+            flag_KOR = &flag_KOR_data;
         }
-        /* PAN */
-        if (!PAN) {
-            PAN = &PAN_data;
+        /* flag_PAN */
+        if (!flag_PAN) {
+            flag_PAN = &flag_PAN_data;
         }
-        /* POR */
-        if (!POR) {
-            POR = &POR_data;
+        /* flag_POR */
+        if (!flag_POR) {
+            flag_POR = &flag_POR_data;
         }
-        /* COL */
-        if (!COL) {
-            COL = &COL_data;
+        /* flag_COL */
+        if (!flag_COL) {
+            flag_COL = &flag_COL_data;
         }
-        /* CUW */
-        if (!CUW) {
-            CUW = &CUW_data;
+        /* flag_CUW */
+        if (!flag_CUW) {
+            flag_CUW = &flag_CUW_data;
         }
-        /* BEL */
-        if (!BEL) {
-            BEL = &BEL_data;
+        /* flag_BEL */
+        if (!flag_BEL) {
+            flag_BEL = &flag_BEL_data;
         }
-        /* FRA */
-        if (!FRA) {
-            FRA = &FRA_data;
+        /* flag_FRA */
+        if (!flag_FRA) {
+            flag_FRA = &flag_FRA_data;
         }
-        /* AUT */
-        if (!AUT) {
-            AUT = &AUT_data;
+        /* flag_AUT */
+        if (!flag_AUT) {
+            flag_AUT = &flag_AUT_data;
         }
-        /* SWE */
-        if (!SWE) {
-            SWE = &SWE_data;
+        /* flag_SWE */
+        if (!flag_SWE) {
+            flag_SWE = &flag_SWE_data;
         }
-        /* NOR */
-        if (!NOR) {
-            NOR = &NOR_data;
+        /* flag_NOR */
+        if (!flag_NOR) {
+            flag_NOR = &flag_NOR_data;
         }
-        /* HAI */
-        if (!HAI) {
-            HAI = &HAI_data;
+        /* flag_HAI */
+        if (!flag_HAI) {
+            flag_HAI = &flag_HAI_data;
         }
-        /* UZB */
-        if (!UZB) {
-            UZB = &UZB_data;
+        /* flag_UZB */
+        if (!flag_UZB) {
+            flag_UZB = &flag_UZB_data;
         }
-        /* IRN */
-        if (!IRN) {
-            IRN = &IRN_data;
+        /* flag_IRN */
+        if (!flag_IRN) {
+            flag_IRN = &flag_IRN_data;
         }
-        /* ESP */
-        if (!ESP) {
-            ESP = &ESP_data;
+        /* flag_ESP */
+        if (!flag_ESP) {
+            flag_ESP = &flag_ESP_data;
         }
-        /* ARG */
-        if (!ARG) {
-            ARG = &ARG_data;
+        /* flag_ARG */
+        if (!flag_ARG) {
+            flag_ARG = &flag_ARG_data;
         }
-        /* SUI */
-        if (!SUI) {
-            SUI = &SUI_data;
+        /* flag_SUI */
+        if (!flag_SUI) {
+            flag_SUI = &flag_SUI_data;
         }
-        /* JOR */
-        if (!JOR) {
-            JOR = &JOR_data;
+        /* flag_JOR */
+        if (!flag_JOR) {
+            flag_JOR = &flag_JOR_data;
         }
         /* background */
         if (!background) {
@@ -568,54 +568,54 @@ void worldcup_ui_init_gen(const char * asset_path)
      * While running in the editor skip this step to update the preview when the XML changes */
 #if LV_USE_XML && !defined(LV_EDITOR_PREVIEW)
     /* Register images */
-    lv_xml_register_image(NULL, "CIV", CIV);
-    lv_xml_register_image(NULL, "QAT", QAT);
-    lv_xml_register_image(NULL, "GHA", GHA);
-    lv_xml_register_image(NULL, "NZL", NZL);
-    lv_xml_register_image(NULL, "GER", GER);
-    lv_xml_register_image(NULL, "EGY", EGY);
-    lv_xml_register_image(NULL, "CPV", CPV);
-    lv_xml_register_image(NULL, "MEX", MEX);
-    lv_xml_register_image(NULL, "SCO", SCO);
-    lv_xml_register_image(NULL, "IRQ", IRQ);
-    lv_xml_register_image(NULL, "KSA", KSA);
-    lv_xml_register_image(NULL, "RSA", RSA);
-    lv_xml_register_image(NULL, "CRO", CRO);
-    lv_xml_register_image(NULL, "USA", USA);
-    lv_xml_register_image(NULL, "MAR", MAR);
-    lv_xml_register_image(NULL, "COD", COD);
-    lv_xml_register_image(NULL, "CZE", CZE);
-    lv_xml_register_image(NULL, "ENG", ENG);
-    lv_xml_register_image(NULL, "JPN", JPN);
-    lv_xml_register_image(NULL, "CAN", CAN);
-    lv_xml_register_image(NULL, "PAR", PAR);
-    lv_xml_register_image(NULL, "ECU", ECU);
-    lv_xml_register_image(NULL, "TUR", TUR);
-    lv_xml_register_image(NULL, "SEN", SEN);
-    lv_xml_register_image(NULL, "BRA", BRA);
-    lv_xml_register_image(NULL, "NED", NED);
-    lv_xml_register_image(NULL, "AUS", AUS);
-    lv_xml_register_image(NULL, "BIH", BIH);
-    lv_xml_register_image(NULL, "URY", URY);
-    lv_xml_register_image(NULL, "ALG", ALG);
-    lv_xml_register_image(NULL, "TUN", TUN);
-    lv_xml_register_image(NULL, "KOR", KOR);
-    lv_xml_register_image(NULL, "PAN", PAN);
-    lv_xml_register_image(NULL, "POR", POR);
-    lv_xml_register_image(NULL, "COL", COL);
-    lv_xml_register_image(NULL, "CUW", CUW);
-    lv_xml_register_image(NULL, "BEL", BEL);
-    lv_xml_register_image(NULL, "FRA", FRA);
-    lv_xml_register_image(NULL, "AUT", AUT);
-    lv_xml_register_image(NULL, "SWE", SWE);
-    lv_xml_register_image(NULL, "NOR", NOR);
-    lv_xml_register_image(NULL, "HAI", HAI);
-    lv_xml_register_image(NULL, "UZB", UZB);
-    lv_xml_register_image(NULL, "IRN", IRN);
-    lv_xml_register_image(NULL, "ESP", ESP);
-    lv_xml_register_image(NULL, "ARG", ARG);
-    lv_xml_register_image(NULL, "SUI", SUI);
-    lv_xml_register_image(NULL, "JOR", JOR);
+    lv_xml_register_image(NULL, "flag_CIV", flag_CIV);
+    lv_xml_register_image(NULL, "flag_QAT", flag_QAT);
+    lv_xml_register_image(NULL, "flag_GHA", flag_GHA);
+    lv_xml_register_image(NULL, "flag_NZL", flag_NZL);
+    lv_xml_register_image(NULL, "flag_GER", flag_GER);
+    lv_xml_register_image(NULL, "flag_EGY", flag_EGY);
+    lv_xml_register_image(NULL, "flag_CPV", flag_CPV);
+    lv_xml_register_image(NULL, "flag_MEX", flag_MEX);
+    lv_xml_register_image(NULL, "flag_SCO", flag_SCO);
+    lv_xml_register_image(NULL, "flag_IRQ", flag_IRQ);
+    lv_xml_register_image(NULL, "flag_KSA", flag_KSA);
+    lv_xml_register_image(NULL, "flag_RSA", flag_RSA);
+    lv_xml_register_image(NULL, "flag_CRO", flag_CRO);
+    lv_xml_register_image(NULL, "flag_USA", flag_USA);
+    lv_xml_register_image(NULL, "flag_MAR", flag_MAR);
+    lv_xml_register_image(NULL, "flag_COD", flag_COD);
+    lv_xml_register_image(NULL, "flag_CZE", flag_CZE);
+    lv_xml_register_image(NULL, "flag_ENG", flag_ENG);
+    lv_xml_register_image(NULL, "flag_JPN", flag_JPN);
+    lv_xml_register_image(NULL, "flag_CAN", flag_CAN);
+    lv_xml_register_image(NULL, "flag_PAR", flag_PAR);
+    lv_xml_register_image(NULL, "flag_ECU", flag_ECU);
+    lv_xml_register_image(NULL, "flag_TUR", flag_TUR);
+    lv_xml_register_image(NULL, "flag_SEN", flag_SEN);
+    lv_xml_register_image(NULL, "flag_BRA", flag_BRA);
+    lv_xml_register_image(NULL, "flag_NED", flag_NED);
+    lv_xml_register_image(NULL, "flag_AUS", flag_AUS);
+    lv_xml_register_image(NULL, "flag_BIH", flag_BIH);
+    lv_xml_register_image(NULL, "flag_URY", flag_URY);
+    lv_xml_register_image(NULL, "flag_ALG", flag_ALG);
+    lv_xml_register_image(NULL, "flag_TUN", flag_TUN);
+    lv_xml_register_image(NULL, "flag_KOR", flag_KOR);
+    lv_xml_register_image(NULL, "flag_PAN", flag_PAN);
+    lv_xml_register_image(NULL, "flag_POR", flag_POR);
+    lv_xml_register_image(NULL, "flag_COL", flag_COL);
+    lv_xml_register_image(NULL, "flag_CUW", flag_CUW);
+    lv_xml_register_image(NULL, "flag_BEL", flag_BEL);
+    lv_xml_register_image(NULL, "flag_FRA", flag_FRA);
+    lv_xml_register_image(NULL, "flag_AUT", flag_AUT);
+    lv_xml_register_image(NULL, "flag_SWE", flag_SWE);
+    lv_xml_register_image(NULL, "flag_NOR", flag_NOR);
+    lv_xml_register_image(NULL, "flag_HAI", flag_HAI);
+    lv_xml_register_image(NULL, "flag_UZB", flag_UZB);
+    lv_xml_register_image(NULL, "flag_IRN", flag_IRN);
+    lv_xml_register_image(NULL, "flag_ESP", flag_ESP);
+    lv_xml_register_image(NULL, "flag_ARG", flag_ARG);
+    lv_xml_register_image(NULL, "flag_SUI", flag_SUI);
+    lv_xml_register_image(NULL, "flag_JOR", flag_JOR);
     lv_xml_register_image(NULL, "background", background);
     lv_xml_register_image(NULL, "lvgl_logo", lvgl_logo);
 #endif
