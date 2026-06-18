@@ -8742,7 +8742,7 @@ function checkIncomingModuleAPI() {
 }
 
 var ASM_CONSTS = {
-  19074196: ($0, $1, $2) => {
+  19136772: ($0, $1, $2) => {
     var w = $0;
     var h = $1;
     var pixels = $2;
@@ -8813,7 +8813,7 @@ var ASM_CONSTS = {
     }
     SDL2.ctx.putImageData(SDL2.image, 0, 0);
   },
-  19075662: ($0, $1, $2, $3, $4) => {
+  19138238: ($0, $1, $2, $3, $4) => {
     var w = $0;
     var h = $1;
     var hot_x = $2;
@@ -8850,19 +8850,19 @@ var ASM_CONSTS = {
     stringToUTF8(url, urlBuf, url.length + 1);
     return urlBuf;
   },
-  19076650: $0 => {
+  19139226: $0 => {
     if (Module["canvas"]) {
       Module["canvas"].style["cursor"] = UTF8ToString($0);
     }
   },
-  19076733: () => {
+  19139309: () => {
     if (Module["canvas"]) {
       Module["canvas"].style["cursor"] = "none";
     }
   },
-  19076802: () => window.innerWidth,
-  19076832: () => window.innerHeight,
-  19076863: $0 => {
+  19139378: () => window.innerWidth,
+  19139408: () => window.innerHeight,
+  19139439: $0 => {
     var str = UTF8ToString($0) + "\n\n" + "Abort/Retry/Ignore/AlwaysIgnore? [ariA] :";
     var reply = window.prompt(str, "i");
     if (reply === null) {
@@ -8870,7 +8870,7 @@ var ASM_CONSTS = {
     }
     return reply.length === 1 ? reply.charCodeAt(0) : -1;
   },
-  19077078: () => {
+  19139654: () => {
     if (typeof (AudioContext) !== "undefined") {
       return true;
     } else if (typeof (webkitAudioContext) !== "undefined") {
@@ -8878,7 +8878,7 @@ var ASM_CONSTS = {
     }
     return false;
   },
-  19077225: () => {
+  19139801: () => {
     if ((typeof (navigator.mediaDevices) !== "undefined") && (typeof (navigator.mediaDevices.getUserMedia) !== "undefined")) {
       return true;
     } else if (typeof (navigator.webkitGetUserMedia) !== "undefined") {
@@ -8886,7 +8886,7 @@ var ASM_CONSTS = {
     }
     return false;
   },
-  19077459: $0 => {
+  19140035: $0 => {
     if (typeof (Module["SDL2"]) === "undefined") {
       Module["SDL2"] = {};
     }
@@ -8910,11 +8910,11 @@ var ASM_CONSTS = {
     }
     return SDL2.audioContext === undefined ? -1 : 0;
   },
-  19078011: () => {
+  19140587: () => {
     var SDL2 = Module["SDL2"];
     return SDL2.audioContext.sampleRate;
   },
-  19078079: ($0, $1, $2, $3) => {
+  19140655: ($0, $1, $2, $3) => {
     var SDL2 = Module["SDL2"];
     var have_microphone = function(stream) {
       if (SDL2.capture.silenceTimer !== undefined) {
@@ -8956,7 +8956,7 @@ var ASM_CONSTS = {
       }, have_microphone, no_microphone);
     }
   },
-  19079772: ($0, $1, $2, $3) => {
+  19142348: ($0, $1, $2, $3) => {
     var SDL2 = Module["SDL2"];
     SDL2.audio.scriptProcessorNode = SDL2.audioContext["createScriptProcessor"]($1, 0, $0);
     SDL2.audio.scriptProcessorNode["onaudioprocess"] = function(e) {
@@ -8988,7 +8988,7 @@ var ASM_CONSTS = {
       SDL2.audio.silenceTimer = setInterval(silence_callback, ($1 / SDL2.audioContext.sampleRate) * 1e3);
     }
   },
-  19080947: ($0, $1) => {
+  19143523: ($0, $1) => {
     var SDL2 = Module["SDL2"];
     var numChannels = SDL2.capture.currentCaptureBuffer.numberOfChannels;
     for (var c = 0; c < numChannels; ++c) {
@@ -9007,7 +9007,7 @@ var ASM_CONSTS = {
       }
     }
   },
-  19081552: ($0, $1) => {
+  19144128: ($0, $1) => {
     var SDL2 = Module["SDL2"];
     var buf = $0 >>> 2;
     var numChannels = SDL2.audio.currentOutputBuffer["numberOfChannels"];
@@ -9021,7 +9021,7 @@ var ASM_CONSTS = {
       }
     }
   },
-  19082041: $0 => {
+  19144617: $0 => {
     var SDL2 = Module["SDL2"];
     if ($0) {
       if (SDL2.capture.silenceTimer !== undefined) {
