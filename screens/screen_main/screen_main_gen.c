@@ -60,7 +60,7 @@ lv_obj_t * screen_main_create(void)
             lv_style_init(&style_panel);
             lv_style_set_width(&style_panel, lv_pct(100));
             lv_style_set_height(&style_panel, LV_SIZE_CONTENT);
-            lv_style_set_pad_row(&style_panel, 12);
+            lv_style_set_pad_row(&style_panel, 4);
             lv_style_set_layout(&style_panel, LV_LAYOUT_FLEX);
             lv_style_set_flex_flow(&style_panel, LV_FLEX_FLOW_COLUMN);
             lv_style_set_flex_cross_place(&style_panel, LV_FLEX_ALIGN_CENTER);

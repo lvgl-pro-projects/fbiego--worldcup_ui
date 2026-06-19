@@ -20,7 +20,7 @@
 			name="style_panel"
 			width="100%"
 			height="content"
-			pad_row="12"
+			pad_row="4"
 			layout="flex"
 			flex_flow="column"
 			flex_cross_place="center"
